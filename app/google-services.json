@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "963720372873",
+    "firebase_url": "https://progetto-abbf4.firebaseio.com",
+    "project_id": "progetto-abbf4",
+    "storage_bucket": "progetto-abbf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963720372873:android:89b0e50328fe48dc559c58",
+        "android_client_info": {
+          "package_name": "pdm.uninsubria.progetto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963720372873-s99vobmhsicr0l09odqsh23c30aurpiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqRU6ZzJ4A08f5oj-662AyLJIMUxYkQxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963720372873-s99vobmhsicr0l09odqsh23c30aurpiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
